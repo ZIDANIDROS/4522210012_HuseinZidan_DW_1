@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>New York Megazine</title>
+  </head>
+  <body class="layout-simple">
+    <!--Navbar-->
+    <div class="top">
+      <div data-editable="top">
+        <nav class="global-nav layer-nav homepage-nav">
+          <div class="global-nav-inner">
+            <ul class="global-nav-site-list">
+              <li class="vertical-item" href="https://nymag.com/intelligencer">
+                Intelligencer
+              </li>
+              <li class="vertical-item" href="https://www.thecut.com">
+                The cut
+              </li>
+              <li class="vertical-item" href="https://www.vulture.com">
+                vulture
+              </li>
+              <li class="vertical-item" href="https://nymag.com/strategist">
+                strategist
+              </li>
+              <li class="vertical-item" href="https://www.curbed.com">
+                Curbed
+              </li>
+              <li class="vertical-item" href="https://www.grubstreet.com">
+                Grub Street
+              </li>
+              <li class="dropdown-wrap vertical-item magazine-item">
+                Magazine
+              </li>
+              <li class="vertical-item" href="href="https://nymag.com/newsletters/?itm_source=sitepromo&itm_medium=internal&itm_campaign=homepage-navigation"">News Letters</li>
+            </ul>
+
+            <ul>
+                <li class="user-subscribe user-item user-link active">Subscribe</li>
+                <li class="user-button sign-in-button">Sign In</li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </div>
+
+    <!--hero section-->
+    <main class="main">
+        <h1>NEW YORK</h1>
+        <div class="container-lede">
+            <img src="https://pyxis.nymag.com/v1/imgs/4af/abb/af6378eb8cfd0509b5517ff56c8a6fd877-2023INT-Col2-B-W-GettyImages-153843936.rsquare.w500.jpg" alt="">
+            <h3>This Discourse</h3>
+            <h2>Cancel Culture Grows Up</h2>
+            <h4>Have we figured out how to separate the repugnant from the merely unlucky?</h4>
+            <p><span>By Ryu Spaeth </span></p>
+        </div>
+        <div class="manual-article">
+            <img src="https://pyxis.nymag.com/v1/imgs/2fc/e95/622de5d0eb005cc4e73ec34d28c168adf3-GettyImages-1692769548.rsquare.w500.jpg" alt="">
+            <h3>encounter</h3>
+            <h2>Werner Herzog Turns the Lens on Himself</h2>
+            <h4>        The filmmaker famous for bending the truth tries his hand at memoir.
+            </h4>
+            <p><span>By Zak Cheney-Rice</span></p>
+        </div>
+        <div class="manual-article">
+            <img src="https://pyxis.nymag.com/v1/imgs/463/65b/387d09f9fe28d7f99b74f2747d4d7c19d5-herman-microsoft.rsquare.w500.jpg" alt="">
+            <h3>screen time</h3>
+            <h2>The AI Chatbot Assistants Are Here. Do We Actually Want Them?</h2>
+            <h4>Sometimes I just want to use my computer, not tell it what to do.</h4>
+            <p><span>By  RJohn Herrman</span></p>
+        </div>
+
+        <p>-----------------------------------------------------------------------------------------------------------------------------------</p>
+        <div class="container">
+            <h2><span>“If you’ve ever even met a comedian, if they say they’re having a good day, that’s lie No. 1.”</span></h2>
+            <p> Sam Sanders and friends <a href="#">on a truly wacky week in culture.</a></p>
+        </div>
+        <p>-----------------------------------------------------------------------------------------------------------------------------------</p>
+
+        <div class="container-main">
+            <section class="nymag-well-container">
+
+                <!--pertama-->
+                <div class="section-header">
+                    <h2 class="more-stories"><span class="section-title">More Top Stories</span></h2>
+                </div>
+                <div class="well-body">
+                    <div class="manual-article_well well-primary-0">
+                        <div class="image-url">
+                            <picture>
+                                <img src="https://pyxis.nymag.com/v1/imgs/f1e/c6b/edfce18bafe7cf1a636a2f4e6140d07815-9-22-DDD.rhorizontal.w380.jpg" alt="">
+                            </picture>
+                        </div>
+                        <div class="manual-article-info">
+                            <div>
+                                <span>Sunday Circular</span>
+                            </div>
+                            <h4><span>8 Things That Delighted Us: From Hairpins to Hand Mixers</span></h4>
+                        </div>
+                    </div>
+                </div>
+
+                <!--kedua-->
+                <div class="well-body">
+                    <div class="manual-article_well well-primary-0">
+                        <div class="image-url">
+                            <picture>
+                                <img src="https://pyxis.nymag.com/v1/imgs/173/5ba/a81784b48de861a74683c6596810cc01bd-sex-education-episode-8.rsquare-zoom.w100.jpg" alt="">
+                            </picture>
+                        </div>
+                        <div class="manual-article-rubric">
+                            <div>
+                                <span>Overnights</span>
+                            </div>
+                            <h4><span>The Sex Education series-Finale recap: forever change</span></h4>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!--ketiga-->
+                <div class="well-featured">
+                    <div class="manual-article_well well-primary-0">
+                        <div class="image-url">
+                            <picture>
+                                <img src="https://pyxis.nymag.com/v1/imgs/701/539/28c5008f3269cabd1db7c0fc12910720ea-Diaries-Round1-1.rsquare-zoom.w100.jpg" alt="">
+                            </picture>
+                        </div>
+                        <div class="manual-article-rubric">
+                            <div>
+                                <span class="manual-article-rubric">Relationalships</span>
+                            </div>
+                            <div class="manual-article-headline short-headline"></div>
+                            <h4><span>This week's sex diary</span></h4>
+                        </div>
+                    </div>
+                </div>
+
+                <p>-----------------------------------------------------------------------------------------------------------------------------------</p>
+                <div class="container-main">
+                    <div class="title-image">
+                        <h2 class="title">
+                            <span class="title-span">Stories Readers Liked</span>
+                        </h2>
+                        <div class="list-wrapper">
+                            <ul class="collection-articles-wrapper">
+
+                                <!--pertama-->
+                                <li class="feed-item overridden podcast ">
+                                    <div class="feed-image-wrap contains-image">
+                                        <picture class="feed-image"><img src="https://pyxis.nymag.com/v1/imgs/b8a/0f1/2d0d96ce00e42a505a8e6ef39a0cabae73-NYMAG-NoBaby0095.rhorizontal.w255.jpg" alt=""></picture>
+                                    </div>
+                                    <div class="feed-text-wrap has-rubric">
+                                        <span class="feed-rubric-date">
+                                            <span class="feed-rubric">Relationships</span>
+                                        </span>
+                                        <h2><span class="feed-headline ">Why Can’t Our Friendship Survive Your Baby?</span></h2>
+                                        <span class="feed-teaser"> Nothing threatens adult relationships like when some friends have kids and others don’t.</span>
+                                        <span class="feed-byline">By Allison P. Davis</span>
+                                    </div>
+                                </li>
+
+                                <!--kedua-->
+                                <li class="feed-item overridden podcast ">
+                                    <div class="feed-image-wrap contains-image">
+                                        <picture class="feed-image"><img src="https://pyxis.nymag.com/v1/imgs/1c5/549/111142aeb591447f0dff81d3ad4968e079-sondheim-web-lede.rhorizontal.w255.jpg" alt=""></picture>
+                                    </div>
+                                    <div class="feed-text-wrap has-rubric">
+                                        <span class="feed-rubric-date">
+                                            <span class="feed-rubric">theater</span>
+                                        </span>
+                                        <h2><span class="feed-headline ">The Final Sondheim</span></h2>
+                                        <span class="feed-teaser">  The complete, from-beginning-to-end story of how Stephen Sondheim, David Ives, and Joe Mantello created the musical Here We Are</span>
+                                        <span class="feed-byline">By Frank Rich</span>
+                                    </div>
+                                </li>
+
+                                <!--ketiga-->
+                                <li class="feed-item overridden podcast ">
+                                    <div class="feed-image-wrap contains-image">
+                                        <picture class="feed-image"><img src="https://pyxis.nymag.com/v1/imgs/b7a/6bc/f8720c6d7e8b947d3242fb4ddb00285da7-BobbyDoherty-RottenTomatoes.rhorizontal.w200.jpg" alt=""></picture>
+                                    </div>
+                                    <div class="feed-text-wrap has-rubric">
+                                        <span class="feed-rubric-date">
+                                            <span class="feed-rubric">screen time</span>
+                                        </span>
+                                        <h2><span class="feed-headline ">The Decomposition of Rotten Tomatoes</span></h2>
+                                        <span class="feed-teaser"> The most overrated metric in entertainment is erratic, reductive, and easily hacked — and yet has Hollywood in its grip.</span>
+                                        <span class="feed-byline">By Lane Brown</span>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <p>-----------------------------------------------------------------------------------------------------------------------------------</p>
+                <section class="container-section lede-feature site-intelligencer">
+                    <header class="container-section-header">
+                        <a href="//nymag.com/intelligencer" class="logo-wrapper">
+                            <h2 class="title">INTELLIGENGER</h2>
+                        </a>
+                        <nav class="nav-wrapper">
+                            <ul class="navigation">
+                                <li class="nav-link"><a href="//nymag.com/intelligencer/politics/">Politics</a></li>
+                                <li class="nav-link"><a href="//nymag.com/intelligencer/business/">Business</a></li>
+                                <li class="nav-link"><a href="//nymag.com/intelligencer/tech/">Technology</a></li>
+                                <li class="nav-link"><a href="//nymag.com/intelligencer/ideas/">Ideas</a></li>
+                            </ul>
+                        </nav>
+                    </header>
+                    <div class="collection-articles-lede_nym-homepage-section">
+                        <picture class="lede-image">
+                            <div class="lede-image-wrap contains-image">
+                                <img src="https://pyxis.nymag.com/v1/imgs/4a5/211/48fe23f187b0b4a85ae61db5f66f1b4974-UAW-strike.rsquare.w250.jpg" alt="">
+                            </div>
+                        </picture>
+                        <div class="lede-text-wrap has-rubric long">
+                            <span class="lede-rubric">
+                                the inside game
+                            </span>
+                            <h2 class="lede-headline">The Strike From Hell for ‘Union Joe’</h2>
+                            <span class="lede-teaser"> The UAW doesn’t want his help, but he will need theirs against Trump, who sees an opportunity.</span>
+                            <span class="lede-byline">By Gabriel Debenedetti</span>
+                        </div>
+                    </div>
+                </section>
+
+                <p>-----------------------------------------------------------------------------------------------------------------------------------</p>
+                <section class="container-section lede site-thecut">
+                    <header class="container-section-header">
+                        <a href="//www.thecut.com" class="logo-wrapper">
+                            <h2 class="title">THE CUT</h2>
+                        </a>
+                        <nav class="nav-wrapper">
+                            <ul class="navigation">
+                                <li class="nav-link"><a href="//thecut.com/style">Style</a></li>
+                                <li class="nav-link"><a href="//thecut.com/self">Self</a></li>
+                                <li class="nav-link"><a href="//thecut.com/culture">Culture</a></li>
+                                <li class="nav-link"><a href="//thecut.com/power">Power</a></li>
+                            </ul>
+                        </nav>
+                    </header>
+                    <div class="container-section-body">
+                        <picture class="lede-image">
+                            <div class="lede-image-wrap contains-image">
+                                <img src="https://pyxis.nymag.com/v1/imgs/9c3/31d/84b65534a726a342508cdff35ff6b259e7-Libra-Season-Cardi-B.rsquare.w400.jpg" alt="">
+                            </div>
+                        </picture>
+                        <div class="lede-text-wrap has-rubric long">
+                            <span class="lede-rubric">
+                                Astrology
+                            </span>
+                            <h2 class="lede-headline">Madame Clairevoyant: Horoscopes for the Week of September 25</h2>
+                            <span class="lede-byline">By Claire Comstock-Gay</span>
+                        </div>
+                    </div>
+                </section>
+
+                <p>-----------------------------------------------------------------------------------------------------------------------------------</p>
+                <section class="container-section lede site-thecut">
+                    <header class="container-section-header">
+                        <a href="//www.vulture.com" class="logo-wrapper">
+                            <h2 class="title">VULTURE</h2>
+                        </a>
+                        <nav class="nav-wrapper">
+                            <ul class="navigation">
+                                <li class="nav-link"><a href="//vulture.com/tv/">TV</a></li>
+                                <li class="nav-link"><a href="//vulture.com/movies/">Movies</a></li>
+                                <li class="nav-link"><a href="//vulture.com/comedy/">Comedy</a></li>
+                                <li class="nav-link"><a href="//vulture.com/music/">Music</a></li>
+                                <li class="nav-link"><a href="//vulture.com/books/">Books</a></li>
+                                <li class="nav-link"><a href="//vulture.com/art/">Art</a></li>
+                                <li class="nav-link"><a href="//vulture.com/theater/">Theater</a></li>
+                                <li class="nav-link"><a href="//vulture.com/streaming/">What to Stream</a></li>
+                            </ul>
+                        </nav>
+                    </header>
+                    <div class="container-section-body">
+                        <picture class="lede-image">
+                            <div class="lede-image-wrap contains-image">
+                                <img src="https://pyxis.nymag.com/v1/imgs/267/f90/d8eadce4a63095a1193a45ccc41220ec3c-Adria-Arjona-and-Glen-Powell-in-HIT-MAN-.rsquare.w250.jpg" alt="">
+                            </div>
+                        </picture>
+                        <div class="lede-text-wrap has-rubric long">
+                            <span class="lede-rubric">
+                                parenting
+                            </span>
+                            <h2 class="lede-headline">I Am Filled With Dread Whenever Netflix Buys a Movie I Love</h2>
+                            <span class="lede-teaser"> Hit mun, we hardly knew you</span>
+                            <span class="lede-byline">By Alison Willmore</span>
+                        </div>
+                    </div>
+                </section>
+
+                <p>-----------------------------------------------------------------------------------------------------------------------------------</p>
+                <section class="container-section lede site-thecut">
+                    <header class="container-section-header">
+                        <a href="//www.vulture.com" class="logo-wrapper">
+                            <h2 class="title">SHOP THE STRATEGIST</h2>
+                        </a>
+                        <nav class="nav-wrapper">
+                            <ul class="navigation">
+                                <li class="nav-link"><a href="//vulture.com/tv/">TV</a></li>
+                                <li class="nav-link"><a href="//vulture.com/movies/">Movies</a></li>
+                                <li class="nav-link"><a href="//vulture.com/comedy/">Comedy</a></li>
+                                <li class="nav-link"><a href="//vulture.com/music/">Music</a></li>
+                                <li class="nav-link"><a href="//vulture.com/books/">Books</a></li>
+                                <li class="nav-link"><a href="//vulture.com/art/">Art</a></li>
+                                <li class="nav-link"><a href="//vulture.com/theater/">Theater</a></li>
+                                <li class="nav-link"><a href="//vulture.com/streaming/">What to Stream</a></li>
+                            </ul>
+                        </nav>
+                    </header>
+                    <div class="container-section-body">
+                        <div class="container-section-main">
+                            <div class="collection-articles_carousel">
+                                <div class="list-wrapper">
+                                    <ul class="collection-articles-wrapper">
+
+                                        <!--pertama-->
+                                        <li class="feed-item">
+                                            <div class="feed-image-wrap contains-image">
+                                                <picture class="feed-image">
+                                                    <img src="https://pyxis.nymag.com/v1/imgs/5d6/58c/d7fab52c86f17c2e6f22dbe90f722498f5-deodorant-womens-017-final.rsquare.w180.jpg" alt="">
+                                                </picture>
+                                            </div>
+                                            <div class="feed-text-wrap has-rubric">
+                                                <span class="feed-rubric-date">
+                                                    <span class="feed-rubric">
+                                                        best in class
+                                                    </span>
+                                                </span>
+                                                <a href="//nymag.com/strategist/article/best-deodorants-for-women.html">
+                                                    <span class="feed-teaser">The 13 Very Best Women’s Deodorants and Antiperspirants</span>
+                                                </a>
+                                            </div>
+                                        </li>
+
+                                        <!--kedua-->
+                                        <li class="feed-item">
+                                            <div class="feed-image-wrap contains-image">
+                                                <picture class="feed-image">
+                                                    <img src="https://pyxis.nymag.com/v1/imgs/da1/e27/c2c98f79ce62527b5054300ed6c499f58c-9-22-Gifts.rsquare.w180.jpg" alt="">
+                                                </picture>
+                                            </div>
+                                            <div class="feed-text-wrap has-rubric">
+                                                <span class="feed-rubric-date">
+                                                    <span class="feed-rubric">
+                                                        gifts they might actually want
+                                                    </span>
+                                                </span>
+                                                <a href="https://nymag.com/strategist/article/best-cheap-and-unique-gifts-under-usd5.html">
+                                                    <span class="feed-teaser">28 Gifts Under $5 (That You Can Buy on Amazon)</span>
+                                                </a>
+                                            </div>
+                                        </li>
+
+                                        <!--ketiga-->
+                                        <li class="feed-item">
+                                            <div class="feed-image-wrap contains-image">
+                                                <picture class="feed-image">
+                                                    <img src="https://pyxis.nymag.com/v1/imgs/446/eaf/0d5f301a2e10104e9d765e6befdf593203-9-21-Fire.rsquare.w180.jpg" alt="">
+                                                </picture>
+                                            </div>
+                                            <div class="feed-text-wrap has-rubric">
+                                                <span class="feed-rubric-date">
+                                                    <span class="feed-rubric">
+                                                        best in class
+                                                    </span>
+                                                </span>
+                                                <a href="//nymag.com/strategist/article/best-fire-pits.html">
+                                                    <span class="feed-teaser">The Very Best Portable Firepits</span>
+                                                </a>
+                                            </div>
+                                        </li>
+
+                                        <!--keempat-->
+                                        <li class="feed-item">
+                                            <div class="feed-image-wrap contains-image">
+                                                <picture class="feed-image">
+                                                    <img src="https://pyxis.nymag.com/v1/imgs/d0d/bba/c222dba09d06a98039b247af175fd9dad6-bic-shampoo-for-color-treated.rsquare.w180.jpg" alt="">
+                                                </picture>
+                                            </div>
+                                            <div class="feed-text-wrap has-rubric">
+                                                <span class="feed-rubric-date">
+                                                    <span class="feed-rubric">
+                                                        best in class
+                                                    </span>
+                                                </span>
+                                                <a href="//nymag.com/strategist/article/best-shampoos-for-color-treated-hair.html">
+                                                    <span class="feed-teaser">The 16 Very Best Shampoos for Color-Treated Hair</span>
+                                                </a>
+                                            </div>
+                                        </li>
+
+                                        <!--kelima-->
+                                        <li class="feed-item">
+                                            <div class="feed-image-wrap contains-image">
+                                                <picture class="feed-image">
+                                                    <img src="https://pyxis.nymag.com/v1/imgs/fdc/5cb/3027bf98d9c35331a4c8b83c8fb5aa3cc1-amy-sedaris-lede-new.rsquare.w180.jpg" alt="">
+                                                </picture>
+                                            </div>
+                                            <div class="feed-text-wrap has-rubric">
+                                                <span class="feed-rubric-date">
+                                                    <span class="feed-rubric">
+                                                        announcements
+                                                    </span>
+                                                </span>
+                                                <a href="//nymag.com/strategist/article/ask-amy-sedaris-holiday-gifting-questions-advice.html">
+                                                    We Got Amy Sedaris to Answer Your Holiday Gifting Questions
+                                                </a>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <p>-----------------------------------------------------------------------------------------------------------------------------------</p>
+                <section class="container-section lede site-thecut">
+                    <header class="container-section-header">
+                        <a href="//www.curbed.com" class="logo-wrapper">
+                            <h2 class="title">Curbed</h2>
+                        </a>
+                        <nav class="nav-wrapper">
+                            <ul class="navigation">
+                                <li class="nav-link"><a href="//www.curbed.com/cityscape/">Cityscape</a></li>
+                                <li class="nav-link"><a href="//www.curbed.com/design-hunting/">Design Hunting</a></li>
+                                <li class="nav-link"><a href="//www.curbed.com/real-estate/">The Real Estate</a></li>
+                                <li class="nav-link"><a href="//www.curbed.com/best-of-new-york">Best of New York</a></li>
+                            </ul>
+                        </nav>
+                    </header>
+                    <div class="container-section-body">
+                        <picture class="lede-image">
+                            <div class="lede-image-wrap contains-image">
+                                <img src="https://pyxis.nymag.com/v1/imgs/789/9b7/c5489eeaca04826bfaa62d4e1d304d1458-beverly-nguyen.rsquare.w250.jpg" alt="">
+                            </div>
+                        </picture>
+                        <div class="lede-text-wrap has-rubric long">
+                            <span class="lede-rubric">
+                                Shopping
+                            </span>
+                            <h2 class="lede-headline">h2Beverly’s Is Making It Permanent</h2>
+                            <span class="lede-teaser">  Beverly Nguyen’s roaming homewares pop-up signed a lease at 27 Orchard.</span>
+                            <span class="lede-byline">By Clio Chang</span>
+                        </div>
+                    </div>
+                </section>
+
+                <p>-----------------------------------------------------------------------------------------------------------------------------------</p>
+                <section class="container-section lede site-thecut">
+                    <header class="container-section-header">
+                        <a href="//www.grubstreet.com" class="logo-wrapper">
+                            <h2 class="title">Grub Street</h2>
+                        </a>
+                        <nav class="nav-wrapper">
+                            <ul class="navigation">
+                                <li class="nav-link"><a href="https://www.grubstreet.com/tags/openings/">Openings</a></li>
+                                <li class="nav-link"><a href="https://www.grubstreet.com/tags/the-year-i-ate-new-york/">The Year I Ate New York</a></li>
+                                <li class="nav-link"><a href="//www.grubstreet.com/tags/the-grub-street-diet/">The Grub Street Diet</a></li>
+                            </ul>
+                        </nav>
+                    </header>
+                    <div class="container-section-body">
+                        <picture class="lede-image">
+                            <div class="lede-image-wrap contains-image">
+                                <img src="https://pyxis.nymag.com/v1/imgs/868/86d/8a231f09752b87ffaba6588ddc37936236-Anna-Albury--blk-3000x2000.rsquare.w250.jpg" alt="">
+                            </div>
+                        </picture>
+                        <div class="lede-text-wrap has-rubric long">
+                            <span class="lede-rubric">
+                                the grub street diet
+                            </span>
+                            <h2 class="lede-headline">Coolstuff.nyc Co-founder Anna B. Albury’s Grub Street Diet</h2>
+                            <span class="lede-teaser"> “Dessert served as a great excuse to extend the afternoon into a round of dominoes.”</span>
+                            <span class="lede-byline">By Clio Chang</span>
+                        </div>
+                    </div>
+                </section>
+
+                <p>-----------------------------------------------------------------------------------------------------------------------------------</p>
+                <footer class="footer">
+                    <div class="global-footer_nymag-homepage">
+                        <div class="primary-section">
+                            <div class="logo-wrapper">
+                                <a class="logo" href="//nymag.com">
+                                    <h2>NEW YORK</h2>
+                                </a>
+                            </div>
+                            <ul class="primary-links">
+                                <li class="primary-link">
+                                    <a href="https://nymag.com/intelligencer/">
+                                        <span class="link-text">
+                                            Intelligencer
+                                        </span>
+                                    </a>
+                                </li>
+                                <li class="primary-link">
+                                    <a href="https://www.thecut.com/">
+                                        <span class="link-text">
+                                            The Cut
+                                        </span>
+                                    </a>
+                                </li>
+                                <li class="primary-link">
+                                    <a href="https://www.vulture.com/">
+                                        <span class="link-text">
+                                            Vulture
+                                        </span>
+                                    </a>
+                                </li>
+                                <li class="primary-link">
+                                    <a href="https://nymag.com/strategist/">
+                                        <span class="link-text">
+                                            The Strategist
+                                        </span>
+                                    </a>
+                                </li>
+                                <li class="primary-link">
+                                    <a href="https://www.curbed.com/">
+                                        <span class="link-text">
+                                            Curbed
+                                        </span>
+                                    </a>
+                                </li>
+                                <li class="primary-link">
+                                    <a href="https://www.grubstreet.com/">
+                                        <span class="link-text">
+                                            Grub Street
+                                        </span>
+                                    </a>
+                                </li>
+                                <li class="primary-link">
+                                    <a href="https://nymag.com/maglinks/global-04">
+                                        <span class="link-text">
+                                            The Magazine
+                                        </span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <ul class="secondary-links">
+                            <li class="secondary-link">
+                              <a href="https://nymag.com/newyork/aboutus/">About New York Magazine</a>
+                            </li>
+                            <li class="secondary-link">
+                              <a href="https://nymag.com/newsletters/">Newsletters</a>
+                            </li>
+                            <li class="secondary-link">
+                              <a href="https://nymag.zendesk.com/hc/en-us/">Help</a>
+                            </li>
+                            <li class="secondary-link">
+                              <a href="https://nymag.com/contactus/">Contact</a>
+                            </li>
+                            <li class="secondary-link">
+                              <a href="https://nymag.com/press/">Press</a>
+                            </li>
+                            <li class="secondary-link">
+                              <a href="http://mediakit.nymag.com/">Media Kit</a>
+                            </li>
+                            <li class="secondary-link">
+                              <a href="https://nymag.com/careers/">We’re Hiring</a>
+                            </li>
+                            <li class="secondary-link">
+                              <a href="https://nymag.com/newyork/privacy.html">Privacy</a>
+                            </li>
+                            <li class="secondary-link">
+                              <a href="https://nymag.com/newyork/terms/">Terms</a>
+                            </li>
+                            <li class="secondary-link">
+                              <a href="https://nymag.com/newyork/privacy.html#ad-choices/">Ad Choices</a>
+                            </li>
+                            <li class="secondary-link">
+                              <a href="https://www.voxmedia.com/contact#ccpa_data/">Do Not Sell or Share My Personal Information</a>
+                            </li>
+                            <li class="secondary-link">
+                              <a href="https://nymag.com/accessibility.html">Accessibility</a>
+                            </li>
+                      </ul>
+                      <div class="copyright">
+                        <span>
+                            <span class="slug">New York</span> is a <a href="https://www.voxmedia.com/a/go-deeper">Vox Media Network</a>.
+                        </span>
+                        <span> &copy; 2023 Vox Media, LLC. All rights reserved.
+                        </span>
+                      </div>
+                    </div>
+                </footer>
+            </section>
+        </div>
+    </main>
+  </body>
+</html>
